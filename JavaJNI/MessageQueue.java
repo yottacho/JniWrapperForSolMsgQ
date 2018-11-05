@@ -31,11 +31,11 @@ public class MessageQueue
     public native byte[] CPHFNAIC();
 
     public native int CPBFJAOC(byte[] msg, int len);
-    public native byte[] CBFNAIC();
+    public native byte[] CPBFNAIC();
 
     public native int CPFHJAOC(byte[] msg, int len);
     public native int CPFHCAOC(byte[] msg, int len);
-    public native byte[] CBFHJAIC();
+    public native byte[] CPFHJAIC();
 
     public native int CPHJNAOC(byte[] msg, int len);
     public native int CPHCNAOC(byte[] msg, int len);

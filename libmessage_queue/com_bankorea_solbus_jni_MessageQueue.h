@@ -161,10 +161,10 @@ JNIEXPORT jint JNICALL Java_com_bankorea_solbus_jni_MessageQueue_CPBFJAOC
 
 /*
  * Class:     com_bankorea_solbus_jni_MessageQueue
- * Method:    CBFNAIC
+ * Method:    CPBFNAIC
  * Signature: ()[B
  */
-JNIEXPORT jbyteArray JNICALL Java_com_bankorea_solbus_jni_MessageQueue_CBFNAIC
+JNIEXPORT jbyteArray JNICALL Java_com_bankorea_solbus_jni_MessageQueue_CPBFNAIC
   (JNIEnv *, jobject);
 
 /*
@@ -185,10 +185,10 @@ JNIEXPORT jint JNICALL Java_com_bankorea_solbus_jni_MessageQueue_CPFHCAOC
 
 /*
  * Class:     com_bankorea_solbus_jni_MessageQueue
- * Method:    CBFHJAIC
+ * Method:    CPFHJAIC
  * Signature: ()[B
  */
-JNIEXPORT jbyteArray JNICALL Java_com_bankorea_solbus_jni_MessageQueue_CBFHJAIC
+JNIEXPORT jbyteArray JNICALL Java_com_bankorea_solbus_jni_MessageQueue_CPFHJAIC
   (JNIEnv *, jobject);
 
 /*
